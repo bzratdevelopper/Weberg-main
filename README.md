@@ -1,10 +1,4 @@
------
 
-<p align="center">
-<img src="[https://media.discordapp.net/attachments/991150215555993600/992985705909325824/e4bcd3919e0eb202c4a62186a515f615.jpg]", width="500", height="500">
-</p>
-
------
 
 ### <p align="center">💎 Weberg 💎</p>
 
