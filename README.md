@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="[https://imgs.search.brave.com/FyBS2fto_jUSuyjI5jgelw-lHSdQzXb4H1UrnmPFE9o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/Ylp6TXlHWDlpZTEt/OWxxQnRUbzJBSGFF/SyZwaWQ9QXBp](https://imgs.search.brave.com/FyBS2fto_jUSuyjI5jgelw-lHSdQzXb4H1UrnmPFE9o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/Ylp6TXlHWDlpZTEt/OWxxQnRUbzJBSGFF/SyZwaWQ9QXBp)", width="500", height="500">
+<img src="[https://media.discordapp.net/attachments/991150215555993600/992985705909325824/e4bcd3919e0eb202c4a62186a515f615.jpg]", width="500", height="500">
 </p>
 
 -----
