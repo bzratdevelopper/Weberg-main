@@ -1,20 +1,17 @@
 -----
 
 <p align="center">
-<img src="[https://repository-images.githubusercontent.com/439958652/7d39b9f7-348b-4120-8012-9642ca451ce1](https://imgs.search.brave.com/FyBS2fto_jUSuyjI5jgelw-lHSdQzXb4H1UrnmPFE9o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/Ylp6TXlHWDlpZTEt/OWxxQnRUbzJBSGFF/SyZwaWQ9QXBp)", width="500", height="500">
+<img src="[https://imgs.search.brave.com/FyBS2fto_jUSuyjI5jgelw-lHSdQzXb4H1UrnmPFE9o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/Ylp6TXlHWDlpZTEt/OWxxQnRUbzJBSGFF/SyZwaWQ9QXBp](https://imgs.search.brave.com/FyBS2fto_jUSuyjI5jgelw-lHSdQzXb4H1UrnmPFE9o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/Ylp6TXlHWDlpZTEt/OWxxQnRUbzJBSGFF/SyZwaWQ9QXBp)", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🦅 Vulture 🦅</p>
+### <p align="center">💎 Weberg 💎</p>
 
 <br><br>
 <p align="center">
 <strong>
-Vulture is a tool written in Python3 allowing you to gain access
-<br>
-to all the files of the victim's computer without any permissions.
-<br><br><br>
+Python and Javascript heberger tool
 </strong>
 <img src="https://cdn.discordapp.com/attachments/940036299941904405/950168655453364254/unknown.png" width="750", height="550">
 </p>
