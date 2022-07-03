@@ -13,7 +13,7 @@
 <strong>
 Python and Javascript heberger tool
 </strong>
-<img src="https://cdn.discordapp.com/attachments/940036299941904405/950168655453364254/unknown.png" width="750", height="550">
+<img src="[https://imgs.search.brave.com/FyBS2fto_jUSuyjI5jgelw-lHSdQzXb4H1UrnmPFE9o/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/Ylp6TXlHWDlpZTEt/OWxxQnRUbzJBSGFF/SyZwaWQ9QXBp" width="750", height="550">
 </p>
 <br>
 
